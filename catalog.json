@@ -1,0 +1,207 @@
+{
+  "brand": "Niva",
+  "currency": "INR",
+  "global_warranty": "1 year limited manufacturer warranty",
+  "products": {
+    "phones": [
+      {
+        "model": "Niva Phone Lite",
+        "price": 12999,
+        "display": "6.5-inch FHD+ LCD, 90 Hz",
+        "processor": "Niva A1 Octa-core",
+        "ram_storage": [
+          "6 GB / 128 GB"
+        ],
+        "camera": "50 MP main + 2 MP depth; 8 MP front",
+        "battery": "5000 mAh",
+        "charging": "18 W wired charging",
+        "colors": [
+          "Midnight Blue",
+          "Mint Green"
+        ],
+        "warranty": "1 year limited manufacturer warranty",
+        "availability": "In stock"
+      },
+      {
+        "model": "Niva Phone Plus",
+        "price": 17999,
+        "display": "6.6-inch FHD+ AMOLED, 120 Hz",
+        "processor": "Niva A2 Octa-core",
+        "ram_storage": [
+          "8 GB / 128 GB",
+          "8 GB / 256 GB"
+        ],
+        "camera": "50 MP OIS main + 8 MP ultrawide; 16 MP front",
+        "battery": "5000 mAh",
+        "charging": "33 W wired charging",
+        "colors": [
+          "Graphite",
+          "Aurora Blue",
+          "Pearl White"
+        ],
+        "warranty": "1 year limited manufacturer warranty",
+        "availability": "In stock"
+      },
+      {
+        "model": "Niva Phone Pro",
+        "price": 24999,
+        "display": "6.7-inch FHD+ AMOLED, 120 Hz",
+        "processor": "Niva A3 5G Octa-core",
+        "ram_storage": [
+          "8 GB / 256 GB",
+          "12 GB / 256 GB"
+        ],
+        "camera": "50 MP OIS main + 12 MP ultrawide +  telephoto; 32 MP front",
+        "battery": "5100 mAh",
+        "charging": "45 W wired charging",
+        "colors": [
+          "Obsidian Black",
+          "Glacier Silver"
+        ],
+        "warranty": "1 year limited manufacturer warranty",
+        "availability": "In stock"
+      },
+      {
+        "model": "Niva Phone Pro Max",
+        "price": 32999,
+        "display": "6.8-inch QHD+ AMOLED, adaptive 1–120 Hz",
+        "processor": "Niva A3X 5G Octa-core",
+        "ram_storage": [
+          "12 GB / 256 GB",
+          "12 GB / 512 GB"
+        ],
+        "camera": "50 MP OIS main + 48 MP ultrawide + 50 MP periscope; 32 MP front",
+        "battery": "5500 mAh",
+        "charging": "65 W wired; 15 W wireless",
+        "colors": [
+          "Titanium Black",
+          "Violet Mist"
+        ],
+        "warranty": "1 year limited manufacturer warranty",
+        "availability": "Limited stock"
+      }
+    ],
+    "watches": [
+      {
+        "model": "Niva Watch Fit",
+        "price": 3999,
+        "display": "1.7-inch HD LCD",
+        "battery": "Up to 7 days",
+        "features": "Heart-rate, sleep, steps, 20 sport modes",
+        "water_resistance": "IP68 (not suitable for diving)",
+        "connectivity": "Bluetooth 5.2; Android and iOS companion app",
+        "colors": [
+          "Black",
+          "Rose Pink"
+        ],
+        "warranty": "1 year limited manufacturer warranty",
+        "availability": "In stock"
+      },
+      {
+        "model": "Niva Watch Active",
+        "price": 5999,
+        "display": "1.9-inch AMOLED",
+        "battery": "Up to 10 days",
+        "features": "Heart-rate, SpO₂, sleep, stress insights, 100 sport modes",
+        "water_resistance": "5 ATM",
+        "connectivity": "Bluetooth 5.3; Android and iOS companion app",
+        "colors": [
+          "Charcoal",
+          "Sage Green",
+          "Silver"
+        ],
+        "warranty": "1 year limited manufacturer warranty",
+        "availability": "In stock"
+      },
+      {
+        "model": "Niva Watch Pro",
+        "price": 8999,
+        "display": "1.5-inch AMOLED always-on display",
+        "battery": "Up to 14 days",
+        "features": "Dual-band GPS, heart-rate, SpO₂, sleep, ECG-style wellness trends, 150 sport modes",
+        "water_resistance": "5 ATM",
+        "connectivity": "Bluetooth 5.3; built-in GPS; Android and iOS companion app",
+        "colors": [
+          "Obsidian",
+          "Champagne Gold"
+        ],
+        "warranty": "1 year limited manufacturer warranty",
+        "availability": "Pre-order"
+      }
+    ],
+    "buds": [
+      {
+        "model": "Niva Buds Go",
+        "price": 1499,
+        "audio": "12 mm dynamic drivers; standard stereo audio",
+        "anc": "No ANC",
+        "battery": "Up to 5 hours per charge; 20 hours with case",
+        "case_capacity": "400 mAh",
+        "connectivity": "Bluetooth 5.3",
+        "water_resistance": "IPX4 earbuds",
+        "colors": [
+          "White",
+          "Navy"
+        ],
+        "warranty": "1 year limited manufacturer warranty",
+        "availability": "In stock"
+      },
+      {
+        "model": "Niva Buds Air",
+        "price": 2499,
+        "audio": "11 mm dynamic drivers; low-latency mode; AAC support",
+        "anc": "Environmental Noise Cancellation for calls; no Active Noise Cancellation",
+        "battery": "Up to 6 hours per charge; 28 hours with case",
+        "case_capacity": "500 mAh",
+        "connectivity": "Bluetooth 5.3; multipoint support",
+        "water_resistance": "IPX4 earbuds",
+        "colors": [
+          "Cloud White",
+          "Lavender"
+        ],
+        "warranty": "1 year limited manufacturer warranty",
+        "availability": "In stock"
+      },
+      {
+        "model": "Niva Buds Pro",
+        "price": 4999,
+        "audio": "10 mm composite drivers; AAC; spatial audio mode",
+        "anc": "Hybrid Active Noise Cancellation up to 35 dB (lab-rated)",
+        "battery": "Up to 7 hours per charge with ANC off; 30 hours with case",
+        "case_capacity": "550 mAh",
+        "connectivity": "Bluetooth 5.4; multipoint support",
+        "water_resistance": "IPX5 earbuds; case is not water-resistant",
+        "colors": [
+          "Midnight Black",
+          "Glacier Blue"
+        ],
+        "warranty": "1 year limited manufacturer warranty",
+        "availability": "In stock"
+      }
+    ]
+  },
+  "policies": {
+    "returns": "Return requests can be raised within 15 days of delivery for eligible unused products. Product inspection may be required.",
+    "refunds": "Approved refunds are processed within 5–7 business days after approval; bank processing may take additional time.",
+    "payments": "UPI, credit cards, debit cards, net banking, and cash on delivery in eligible PIN codes.",
+    "delivery": "Standard delivery usually takes 3–7 business days after order confirmation. Remote locations may take longer.",
+    "order_tracking": "Use a sample order ID such as NIVA1001, NIVA1002, or NIVA1003."
+  },
+  "sample_orders": {
+    "NIVA1001": {
+      "status": "Shipped",
+      "estimated_delivery": "2026-11-05",
+      "item": "Niva Phone Plus"
+    },
+    "NIVA1002": {
+      "status": "Processing",
+      "estimated_delivery": "2026-11-07",
+      "item": "Niva Watch Active"
+    },
+    "NIVA1003": {
+      "status": "Delivered",
+      "estimated_delivery": "2026-10-29",
+      "item": "Niva Buds Pro"
+    }
+  }
+}
